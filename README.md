@@ -10,3 +10,13 @@ Binary-search-trees-in-JavaScript
 | 3  | [BST Insertion](#)                                                                                                                                                          |
 | 4  | [Inorder successor and predecessor](#)                                                                                                                                      |
 | 5  | [BTS Delection](#)                                                                                                                                                          |
+
+
+
+| 1  | [Binary-search-tree-and-its-applications](#)   
+# 1.1 Binaary search Tree 
+
+
+
+
+
