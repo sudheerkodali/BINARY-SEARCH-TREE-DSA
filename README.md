@@ -32,9 +32,10 @@ Binary-search-trees-in-JavaScript
 <li><p> KET REPRESENTS values of the tree and CURRENT tells the value of PARENT </p>
 <li><p> When ever KEY values GREATER then the CURRENT PARENT value then its represents the RIGHT side of the tree </p>
 <li><p> select the RIGHT side elements of the KEY values which are GREATER than PARENT TREE </p></li>
-</ul>
+
 
 <li><p> KEY === CURRENT is equal to parent value </p></li>
+</ul>
 
 ![](./Inordersuccessorpredecessor/image2.png)
 
