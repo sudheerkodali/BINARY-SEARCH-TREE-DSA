@@ -20,6 +20,12 @@ Binary-search-trees-in-JavaScript
 
 ![](./Inordersuccessorpredecessor/image1.png)
 
+# 1.2 Binary search Tree
+
+
+![](./Inordersuccessorpredecessor/image2.png)
+
+
 
 
 
