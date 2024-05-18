@@ -18,7 +18,7 @@ Binary-search-trees-in-JavaScript
 <p> Let we assume that 'L' :sub-tree _<  P' is called left side smaller </p>
 <p> Let we assume that 'R' :sub-tree _>  P' is called right side is bigger </p>  
 
-
+![](./Inordersuccessorpredecessor/image1.png)
 
 
 
