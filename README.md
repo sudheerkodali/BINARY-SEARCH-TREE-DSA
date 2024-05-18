@@ -35,6 +35,16 @@ Binary-search-trees-in-JavaScript
 
 
 <li><p> KEY === CURRENT is equal to parent value </p></li>
+
+<li><p> DISTENCE From root node to fargest d done is 4 </p>
+<li><P> Distence feom fargest d node to root node is HEIGHT of the Tree </P></li>
+<li><p>search is taken as o(h) time,I can search any type of tree </p></li>
+<li><p>height of the Tree is also 4 and the number of compressions is also 4 </p></li>
+<li><p> IMP 11.19</p>
+<li><P> Search=> o(h) and h=(logn)</P>
+<li><p> Search complexity improve dramatically o(n), if h == logn  <p> 
+<li><p> Search=> o(logn) </p>
+<li><p> Nodes , N =7 anf HEIGHT , h=log7 2 <p></li>
 </ul>
 
 ![](./Inordersuccessorpredecessor/image2.png)
