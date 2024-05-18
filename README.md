@@ -22,7 +22,8 @@ Binary-search-trees-in-JavaScript
 ![](./Inordersuccessorpredecessor/image1.png)
 
 # 1.2 Binary search Tree
-<p> same like wise LEFT PARENT value </p>
+<ul>
+<li></li><p> same like wise LEFT PARENT value </p>
 <p> KET REPRESENTS values of the tree and CURRENT tells the value of PARENT </p>
 <p> When ever KEY values LESS then the CURRENT PARENT value then its represents the LEFT side of the tree </p>
 <P> Select the LEFT side elements of the KEY values which are LESS than PARENT TREE</P> 
@@ -30,7 +31,8 @@ Binary-search-trees-in-JavaScript
 <p> Same like wise RIGHT PARENT value </p>
 <p> KET REPRESENTS values of the tree and CURRENT tells the value of PARENT </p>
 <p> When ever KEY values GREATER then the CURRENT PARENT value then its represents the RIGHT side of the tree </p>
-<p> select the RIGHT side elements of the KEY values which are GREATER than PARENT TREE </p>
+<p> select the RIGHT side elements of the KEY values which are GREATER than PARENT TREE </p></li>
+</ul>
 
 <p> KEY === CURRENT is equal to parent value </p>
 
