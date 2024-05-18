@@ -32,6 +32,8 @@ Binary-search-trees-in-JavaScript
 <p> When ever KEY values GREATER then the CURRENT PARENT value then its represents the RIGHT side of the tree </p>
 <p> select the RIGHT side elements of the KEY values which are GREATER than PARENT TREE </p>
 
+<p> KEY === CURRENT is equal to parent value </p>
+
 ![](./Inordersuccessorpredecessor/image2.png)
 
 
