@@ -23,6 +23,12 @@ Binary-search-trees-in-JavaScript
 # 1.2 Binary search Tree
 <p> KET REPRESENTS values of the tree and CURRENT tells the value of PARENT </p>
 <p> When ever KEY values LESS then the CURRENT PARENT value then its represents the LEFT side of the tree </p>
+<P> </P> 
+
+<p> same like wise RIGHT PARENT value </p>
+<p>  KET REPRESENTS values of the tree and CURRENT tells the value of PARENT </p>
+<p> When ever KEY values GREATER then the CURRENT PARENT value then its represents the RIGHT side of the tree </p>
+<p> select the RIGHT side elements of the KEY values which are greater then PARENT TREE </p>
 
 ![](./Inordersuccessorpredecessor/image2.png)
 
