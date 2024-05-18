@@ -21,7 +21,8 @@ Binary-search-trees-in-JavaScript
 ![](./Inordersuccessorpredecessor/image1.png)
 
 # 1.2 Binary search Tree
-
+<p> </p>
+<p> </p>
 
 ![](./Inordersuccessorpredecessor/image2.png)
 
