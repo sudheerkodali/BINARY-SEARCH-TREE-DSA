@@ -49,7 +49,7 @@ Binary-search-trees-in-JavaScript
 
 
 ![](./Inordersuccessorpredecessor/image2.png)
-
+<p></p>
 
 | 2  | [Height-balanced-BST](#)   
 # HBT-types
