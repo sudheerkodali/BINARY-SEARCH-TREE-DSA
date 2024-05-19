@@ -47,8 +47,12 @@ Binary-search-trees-in-JavaScript
 <li><p> Nodes , N =7 anf HEIGHT , h=log7 2 <p></li>
 </ul>
 
+
 ![](./Inordersuccessorpredecessor/image2.png)
 
+
+| 2  | [Height-balanced-BST](#)   
+# HBT-types
 
 
 
