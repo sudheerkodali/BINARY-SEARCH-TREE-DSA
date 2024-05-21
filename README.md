@@ -55,6 +55,5 @@ Binary-search-trees-in-JavaScript
 # HBT-types
 <p> red black tree </p>
 <p> ALT </p>
-
-
+<li></li><p>
 
