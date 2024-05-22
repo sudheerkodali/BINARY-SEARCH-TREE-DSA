@@ -16,8 +16,8 @@ Binary-search-trees-in-JavaScript
 
 | 1  | [Binary-search-tree-and-its-applications](#)   
 # 1.1 Binaary search Tree 
-<p> Let we assume that 'LEFT' :sub-tree _<  P' is called left side smaller </p>
-<p> Let we assume that 'RIGHT' :sub-tree _>  P' is called right side is bigger </p>  
+<p> Let we assume that 'LEFT' :sub-tree  ≤ P' is called left side smaller </p>  
+<p> Let we assume that 'RIGHT' :sub-tree ≥  P' is called right side is bigger </p>  
 
 ![](./Inordersuccessorpredecessor/image1.png)
 
