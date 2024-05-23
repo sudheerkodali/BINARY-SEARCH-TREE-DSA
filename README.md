@@ -41,10 +41,18 @@ Binary-search-trees-in-JavaScript
 <li><p>search is taken as o(h) time,I can search any type of tree </p></li>
 <li><p>height of the Tree is also 4 and the number of compressions is also 4 </p></li>
 <li><p> IMP 11.19</p>
-<li><P> Search=> o(h) and h=(logn)</P>
+<li><P> Binary Search search TREE=> o(h) and in an unsorted array |---------------| o(n) </P>
+<li><p> search time complexity is o(h) times </p>p </li>
+<li><p> restrict the hight of the array in an unsorted array we need to ettrate o(n) times <p>
+<li><p> let say construct a tree a binary search tree then h =log(n) the the SEARCH will becomes =>o(h)  means SEARCH => o(logn) </p></li>
+
+   <p> if h == logN   NODES =7 AND HEIGHT H = log 7 2 => 3
+     
 <li><p> Search complexity improve dramatically o(n), if h == logn  <p> 
 <li><p> Search=> o(logn) </p>
 <li><p> Nodes , N =7 anf HEIGHT , h=log7 2 <p></li>
+
+  
 </ul>
 
 
