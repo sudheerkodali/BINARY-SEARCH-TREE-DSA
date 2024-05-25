@@ -53,6 +53,7 @@ Binary-search-trees-in-JavaScript
 <li><p> Search complexity improve dramatically o(n), if h == logn  <p> 
 <li><p> Search=> o(logn) </p>
 <li><p> Nodes , N =7 anf HEIGHT , h=log7 2 <p></li>
+<li><p> |h(l) - h(r)| < 1 
 
   
 </ul>
