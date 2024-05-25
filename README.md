@@ -24,7 +24,7 @@ Binary-search-trees-in-JavaScript
 # 1.2 Binary search Tree
 <ul>
 <li><p> same like wise LEFT PARENT value </p>
-<li><p> KET REPRESENTS values of the tree and CURRENT tells the value of PARENT </p>
+<li><p> KEY REPRESENTS values of the tree and CURRENT tells the value of PARENT </p>
 <li><p> When ever KEY values LESS then the CURRENT PARENT value then its represents the LEFT side of the tree </p>
 </li><P> Select the LEFT side elements of the KEY values which are LESS than PARENT TREE</P> 
 
@@ -67,7 +67,7 @@ Binary-search-trees-in-JavaScript
 
 ![](./HeightbalancedBST/image1.png)
 
-<li><p> red black tree </p></li>
+<li><p> Red Black Tree </p></li>
 <li><p> AVL trees </p></li>
 <li><p> while, Red Black tree is important when compared to this AVL are more important in Binart search tree </p></li>
 
