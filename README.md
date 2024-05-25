@@ -44,10 +44,12 @@ Binary-search-trees-in-JavaScript
 <li><P> Binary Search search TREE=> o(h) and in an unsorted array |---------------| o(n) </P>
 <li><p> search time complexity is o(h) times </p>p </li>
 <li><p> restrict the hight of the array in an unsorted array we need to ettrate o(n) times <p>
-<li><p> let say construct a tree a binary search tree then h =log(n) the the SEARCH will becomes =>o(h)  means SEARCH => o(logn) </p></li>
+<li><p> let say construct a tree a binary search tree then h =log(n) the the SEARCH will becomes =>o(h)  means SEARCH => o(logN) </p></li>
 
    <p> if h == logN   NODES =7 AND HEIGHT H = log 7 2 => 3
-     
+   <P> IF h == logN   NODES =4 and HEIGHT h = log 4 4 =>
+  <p>in a stand binary standard there is non restrection</p> 
+  <p>In a balanced binary search tree it is directly it is h= o(logn) and search = o(logn)</p>      
 <li><p> Search complexity improve dramatically o(n), if h == logn  <p> 
 <li><p> Search=> o(logn) </p>
 <li><p> Nodes , N =7 anf HEIGHT , h=log7 2 <p></li>
