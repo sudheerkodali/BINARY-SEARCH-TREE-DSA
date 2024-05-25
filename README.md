@@ -65,9 +65,15 @@ Binary-search-trees-in-JavaScript
 | 2  | [Height-balanced-BST](#)   
 # HBT-types
 
-![](./Inordersuccessorpredecessor/image1.png)
+![](./HeightbalancedBST/image1.png)
 
 <p> red black tree </p>
-<p> ALv trees </p>
-<li></li><p>
+<p> ALT trees </p>
+<p> while, Red Black tree is important when compared to this ALT are more important in Binart search tree </p>
+
+| 3 | [ BSTinsertion ]
+# BST insertion types
+
+![](./BSTinsertion/image1.png)
+ 
 
