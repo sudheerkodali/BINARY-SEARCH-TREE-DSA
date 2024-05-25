@@ -75,5 +75,16 @@ Binary-search-trees-in-JavaScript
 # BST insertion types
 
 ![](./BSTinsertion/image1.png)
+
+<p> Let insert new element 13 and compare from root element and find correct position for 13 </p>
+<p> Attach the new node </p>
+<p> First compare Root Node 10 is (greater then or equal) or (less then or equal) BST as a rule is that root element is greater then ket lements it is left side of the BST </P>
+<P> Second if is some case ROOT element is less than KEY elements then it is belongs to RIGHT HAND side of the tree </P>
+<p> INSERT '13' > 10 ------> it belongs to LEFT SIDE of the TREE  </p>
+<p> INSERT  13  < 15 ------> it belongs to RIGHT SIDE of the TREE  </p>
+<p> INSERT  13  > 12 ------> it belongs to LEFT SIDE of the TREE  </p>
+   
+   
+
  
 
