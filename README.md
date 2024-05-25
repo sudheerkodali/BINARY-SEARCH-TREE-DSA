@@ -87,7 +87,8 @@ Binary-search-trees-in-JavaScript
  <p> INSERT 16' > 10 ------> it belongs to RIGHT SIDE of the TREE  </p>
 <p> INSERT  16  > 15 ------> it belongs to RIGHT SIDE of the TREE  </p>
 <p> INSERT  16  < 19 ------> it belongs to LEFT SIDE of the TREE that means 19 LEFT SIDE, LAST ELEMENT  </p>
-<P> TC => O(h) </P>   
+<P> TC => O(h) </P> 
+   <p> HEIGHT OF THE TIME COMPLEXITY </p>
    
   
 
