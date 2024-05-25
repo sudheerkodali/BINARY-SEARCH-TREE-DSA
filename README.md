@@ -82,9 +82,14 @@ Binary-search-trees-in-JavaScript
 <P> Second if is some case ROOT element is less than KEY elements then it is belongs to RIGHT HAND side of the tree </P>
 <p> INSERT '13' > 10 ------> it belongs to LEFT SIDE of the TREE  </p>
 <p> INSERT  13  < 15 ------> it belongs to RIGHT SIDE of the TREE  </p>
-<p> INSERT  13  > 12 ------> it belongs to LEFT SIDE of the TREE  </p>
+<p> INSERT  13  > 12 ------> it belongs to LEFT SIDE of the TREE that means 12 RIGHT SIDE , LAST ELEMENT </p>
    
+ <p> INSERT 16' > 10 ------> it belongs to RIGHT SIDE of the TREE  </p>
+<p> INSERT  16  > 15 ------> it belongs to RIGHT SIDE of the TREE  </p>
+<p> INSERT  16  < 19 ------> it belongs to LEFT SIDE of the TREE that means 19 LEFT SIDE, LAST ELEMENT  </p>
+<P> TC => O(h) </P>   
    
+  
 
  
 
