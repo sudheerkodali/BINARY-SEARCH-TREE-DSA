@@ -89,8 +89,22 @@ Binary-search-trees-in-JavaScript
 <p> INSERT  16  < 19 ------> it belongs to LEFT SIDE of the TREE that means 19 LEFT SIDE, LAST ELEMENT  </p>
 <P> TC => O(h) </P> 
    <p> HEIGHT OF THE TIME COMPLEXITY </p>
-   
-  
 
- 
+ | 4  | [Inorder successor and predecessor](#)
+   # Inorder successor Inorder predecessor
+  <p> Inorder successor </p>
+  <p> Inorder predecessor </p>
+<p> Inordersuccessor
+   15(9) = 10
+   15(3) = 5
+   15(12) = 15
+</p>
+<p> Inorder predecessor 
+   Ip(9) = 8
+   Ip(7) = 5
+   Ip(12) = 11
+</p>
+
+   
+</p>
 
