@@ -71,7 +71,7 @@ Binary-search-trees-in-JavaScript
 <li><p> AVL trees </p></li>
 <li><p> while, Red Black tree is important when compared to this AVL are more important in Binart search tree </p></li>
 
-| 3 | [ BSTinsertion ]
+| 3 | [ BSTinsertion ](#)
 # BST insertion types
 
 ![](./BSTinsertion/image1.png)
