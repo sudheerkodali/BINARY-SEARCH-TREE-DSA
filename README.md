@@ -105,7 +105,7 @@ Binary-search-trees-in-JavaScript
    Ip(7) = 5
    Ip(12) = 11
 </p>
-
-   
+<li>Inorder successor less then parent node it comes under left side</li>
+<li>Greater then parent node and the key values are greater than parent node </li>   
 </p>
 
