@@ -20,7 +20,7 @@ Binary-search-trees-in-JavaScript
 <p> Let we assume that 'LEFT' :sub-tree  ≤ P' is called left side smaller </p>  
 <p> Let we assume that 'RIGHT' :sub-tree ≥  P' is called right side is bigger </p>  
 
-![](./Inordersuccessorpredecessor/image1.png)
+![](./BSTApplications/image1.png)
 
 # 1.2 Binary search Tree
 <ul>
@@ -60,7 +60,7 @@ Binary-search-trees-in-JavaScript
 </ul>
 
 
-![](./Inordersuccessorpredecessor/image2.png)
+![](./BSTApplications/image2.png)
 <p></p>
 
 | 2  | [Height-balanced-BST](#)   
