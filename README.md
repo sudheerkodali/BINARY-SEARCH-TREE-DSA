@@ -93,6 +93,10 @@ Binary-search-trees-in-JavaScript
    <p> HEIGHT OF THE TIME COMPLEXITY </p>
 
  | 4  | [Inorder successor and predecessor](#)
+
+ 
+![](./Inorder successor and predecessor/image1.png)
+
    # Inorder successor Inorder predecessor
   <p> Inorder successor </p>
   <p> Inorder predecessor </p>
