@@ -107,6 +107,9 @@ Binary-search-trees-in-JavaScript
    Ip(12) = 11
    
   | 5 | [BTS Delection](#)
+
+  
+![](./BSTdelection/image1.png)
   
 </p>
 <li>Inorder successor less then parent node it comes under left side</li>
