@@ -11,7 +11,7 @@ Binary-search-trees-in-JavaScript
 | 2  | [Height-balanced-BST](#)                                                                                                                                                    |
 | 3  | [BST Insertion](#)                                                                                                                                                          |
 | 4  | [Inorder successor and predecessor](#)                                                                                                                                      |
-| 5  | [BTS Delection](#)                                                                                                                                                          |
+| 5  | [BST Delection](#)                                                                                                                                                          |
 
 
 
