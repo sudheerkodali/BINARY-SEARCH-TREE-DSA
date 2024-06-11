@@ -16,6 +16,7 @@ Binary-search-trees-in-JavaScript
 
 
 | 1  | [Binary-search-tree-and-its-applications](#)   
+
 ![](./BSTApplications/image3.png)
 
 # 1.1 Binaary search Tree 
