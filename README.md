@@ -27,6 +27,8 @@ Binary-search-trees-in-JavaScript
 ![](./BSTApplications/image1.png)
 
 # 1.2 Binary search Tree
+
+![](./BSTApplications/image2.png)
 <ul>
 <li><p> same like wise LEFT PARENT value </p>
 <li><p> KEY REPRESENTS values of the tree and CURRENT tells the value of PARENT </p>
@@ -38,9 +40,14 @@ Binary-search-trees-in-JavaScript
 <li><p> When ever KEY values GREATER then the CURRENT PARENT value then its represents the RIGHT side of the tree </p>
 <li><p> select the RIGHT side elements of the KEY values which are GREATER than PARENT TREE </p></li>
 
+</ul>
 
+# 1.3 Binary serch tree key and node values
+
+![](./BSTApplications/image4.png)
+
+<ul>
 <li><p> KEY === CURRENT is equal to parent value </p></li>
-
 <li><p> DISTENCE From root node to fargest d done is 4 </p>
 <li><P> Distence feom fargest d node to root node is HEIGHT of the Tree </P></li>
 <li><p>search is taken as o(h) time,I can search any type of tree </p></li>
