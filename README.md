@@ -75,6 +75,9 @@ Binary-search-trees-in-JavaScript
 <p></p>
 
 | 2  | [Height-balanced-BST](#)   
+
+![](./HeightbalancedBST/image2.png)
+
 # HSTHeight-balanced-types
 
 ![](./HeightbalancedBST/image1.png)
