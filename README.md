@@ -71,7 +71,7 @@ Binary-search-trees-in-JavaScript
 </ul>
 
 
-![](./BSTApplications/image2.png)
+
 <p></p>
 
 | 2  | [Height-balanced-BST](#)   
@@ -106,7 +106,7 @@ Binary-search-trees-in-JavaScript
 
  | 4  | [Inorder successor and predecessor](#)
 
- ![](./Inordersuccessorandpredecessor/image1.png)
+
 
    # Inorder successor Inorder predecessor
 
