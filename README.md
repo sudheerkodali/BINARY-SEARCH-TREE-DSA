@@ -109,7 +109,7 @@ Binary-search-trees-in-JavaScript
 
  | 4  | [Inorder successor and predecessor](#)
  
-![](./Inordersuccessorandpredecessor/image3.png)
+![](./Inordersuccessorandpredecessor/image1.png)
 
 
    # Inorder successor Inorder predecessor
