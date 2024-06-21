@@ -84,7 +84,7 @@ Binary-search-trees-in-JavaScript
 
 <li><p> Red Black Tree </p></li>
 <li><p> AVL trees </p></li>
-<li><p> while, Red Black tree is important when compared to this AVL are more important in Binart search tree </p></li>
+<li><p> 'WHITE", 'RED BLACK TREE " are important when compared among these 'AVL" is more important in Binary search tree </p></li>
 
 | 3 | [ BSTinsertion ](#)
 
