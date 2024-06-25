@@ -137,6 +137,6 @@ Binary-search-trees-in-JavaScript
 </p>
 <li>Inorder successor less then parent node it comes under left side</li>
 <li>Greater then parent node and the key values are greater than parent node </li>   
-<li> <p></p></li>
+<li> <p>these are dependes on nodes and key values </p></li>
 </p>
 
