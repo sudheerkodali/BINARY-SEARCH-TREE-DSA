@@ -140,14 +140,17 @@ Binary-search-trees-in-JavaScript
 <li> <p>these are dependes on nodes and key values </p></li>
 </p>
 
+# No child
 ![](./BSTdelection/image2.png)
 
 <p><li> No child </li></p>
 
+# Single child
 ![](./BSTdelection/image3.png)
 
 <p><li> Single child </li></p>
 
+# Two children
 ![](./BSTdelection/image4.png)
 
 <p><li> </li></p>
