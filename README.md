@@ -144,7 +144,7 @@ Binary-search-trees-in-JavaScript
 ![](./BSTdelection/image2.png)
 
 <p><li> No child </li></p>
-<p>No child in in BST delection type <\p>
+<p>No child in in BST delection type </p>
 
 # Single child
 ![](./BSTdelection/image3.png)
